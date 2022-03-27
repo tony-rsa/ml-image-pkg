@@ -1,2 +1,2 @@
-. init/env.sh
-. init/installpkg.sh
+. Bash/init/env.sh
+. Bash/init/installpkg.sh
